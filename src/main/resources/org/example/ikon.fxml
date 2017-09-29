@@ -11,7 +11,7 @@
     <TextField fx:id="name" layoutX="172.0" layoutY="11.0" prefWidth="200.0" />
     <Button layoutX="172.0" layoutY="45.0" mnemonicParsing="false" onAction="#sayHello" prefWidth="200.0" text="Say hello!">
       <graphic>
-         <FontIcon iconLiteral="fa-address-book" />
+         <FontIcon iconLiteral="fa-circle-thin" />
       </graphic>
     </Button>
 </AnchorPane>
